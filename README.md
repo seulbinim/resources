@@ -13,5 +13,5 @@ npm install --global degit
 ```sh
 cd
 cd likelion-bootcamp
-degit seulbinim/resoures/figma figma
+degit seulbinim/resources/figma figma
 ```
